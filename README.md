@@ -52,6 +52,6 @@ python main.py
 
 Add collaborative filtering
 
-Build a full web app with Flask/Streamlit
+Build a full web app with Streamlit
 
 Integrate user ratings for better results
